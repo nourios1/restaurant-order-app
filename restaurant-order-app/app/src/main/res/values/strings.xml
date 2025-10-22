@@ -1,7 +1,0 @@
-<resources>
-    <string name="app_name">Restaurant Order App</string>
-    <string name="welcome_message">Welcome to the Restaurant Order App!</string>
-    <string name="order_button">Place Order</string>
-    <string name="loading">Loading...</string>
-    <string name="error_message">An error occurred. Please try again.</string>
-</resources>
